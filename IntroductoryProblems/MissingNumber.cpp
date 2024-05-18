@@ -1,8 +1,8 @@
 #include <bits/stdc++.h>
 using namespace std;
-
+ 
 #define all(x) (x).begin(),(x).end()
-
+ 
 void solve() {
     long long n; cin >> n;
     vector<int> vc(n + 1);
@@ -10,7 +10,7 @@ void solve() {
         int k; cin >> k;
         vc[k]++;
     } 
-
+ 
     for(int i = 1; i <= n; i++){
         if(!vc[i]){
             cout << i << endl;
@@ -18,7 +18,7 @@ void solve() {
     }
     
 }
-
+ 
 int main() {
     int t; t = 1;
     while (t--) {

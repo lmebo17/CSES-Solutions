@@ -20,7 +20,11 @@ long long fast_power(long long base, long long power) {
 
 void solve() {
     int n; cin >> n;
-    cout << fast_power(2, n) << endl;
+    int cnt = 0;
+    
+    for(int i = 1; i <= n; i++){
+        
+    }
 }
 
 int main() {

@@ -1,8 +1,8 @@
 #include <bits/stdc++.h>
 using namespace std;
-
+ 
 #define all(x) (x).begin(),(x).end()
-
+ 
 void solve() {
    string str; cin >> str;
    int n = str.size();
@@ -17,7 +17,7 @@ void solve() {
    cout << answ << endl;
     
 }
-
+ 
 int main() {
     int t; t = 1;
     while (t--) {
