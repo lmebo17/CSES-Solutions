@@ -23,7 +23,6 @@ void solve() {
             answ += 2*layer - column;
         }
     }
- 
     cout << answ << endl;
 }
  

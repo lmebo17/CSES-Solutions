@@ -14,13 +14,6 @@ void solve() {
     
     vector<int> vc(n + 1);
 
-
-
-
-
-
-
-
 }
 
 int main() {

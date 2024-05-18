@@ -14,6 +14,7 @@ long long fast_power(long long base, long long power) {
         base = (base * base) % MOD;
         power = power / 2; 
     }
+    
     return result;
 }
 

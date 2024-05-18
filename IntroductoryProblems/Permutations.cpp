@@ -16,6 +16,7 @@ void solve() {
         cout << 1 << endl;
         return;
    }
+   
    if(n <= 3){
         cout << "NO SOLUTION" << endl;
         return;

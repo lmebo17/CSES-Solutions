@@ -16,8 +16,8 @@ void solve() {
             arr[i] = arr[i-1];
         }
     }
+
     cout << cnt << endl;
-    
 }
  
 int main() {

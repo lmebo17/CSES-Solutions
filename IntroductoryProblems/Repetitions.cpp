@@ -14,6 +14,7 @@ void solve() {
             answ = max(answ, cnt);
         } else cnt = 1;
    }
+   
    cout << answ << endl;
     
 }
