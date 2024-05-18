@@ -11,7 +11,6 @@ void solve() {
         } else n /= 2;
         cout << n << " ";
     }
-    
 }
  
 int main() {

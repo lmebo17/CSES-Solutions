@@ -16,6 +16,7 @@ void solve() {
             cout << i << endl;
         }
     }
+
 }
  
 int main() {

@@ -14,6 +14,7 @@ void solve() {
     for(long long i = 1; i <= n; i++){
         cout << calculate(i) << endl;
     } 
+
 }
  
 int main() {

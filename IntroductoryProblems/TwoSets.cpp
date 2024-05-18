@@ -11,7 +11,6 @@ void solve() {
         return;
     }
 
-    
     vector<int> vc(n + 1);
 
 }

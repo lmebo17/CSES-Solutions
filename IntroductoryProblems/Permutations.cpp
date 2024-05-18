@@ -7,6 +7,7 @@ void loop(int start, int end){
     for(int i = start; i <= end; i += 2){
         cout << i << " ";
     }
+    
 }
  
  
