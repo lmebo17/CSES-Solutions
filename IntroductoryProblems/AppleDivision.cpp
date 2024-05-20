@@ -3,6 +3,7 @@ using namespace std;
  
 #define all(x) (x).begin(),(x).end()
 #define ll long long 
+
 void log(bool flag){
     cout << (flag ? "YES" : "NO") << endl;
 }
