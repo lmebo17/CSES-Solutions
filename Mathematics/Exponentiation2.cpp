@@ -22,7 +22,8 @@ ll fast_pow(ll base, ll power, ll modulo){
     return answ;
 }
 
-
+// Eulers phi function
+// a^N = a^Nmodphi(M) mod M
 void solve() {
     int a, b, c; cin >> a >> b >> c;
     int power = fast_pow(b, c, MOD - 1);
