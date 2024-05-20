@@ -29,8 +29,7 @@ void solve() {
 
     vector<vector<char>> grid(n, vector<char>(m));
     for (int i = 0; i < n; i++){
-        string line;
-        cin >> line;
+        string line; cin >> line;
         for (int j = 0; j < m; j++){
             grid[i][j] = line[j];
         }
